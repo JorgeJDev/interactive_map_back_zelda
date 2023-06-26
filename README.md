@@ -1,6 +1,6 @@
-### Eng: My most recent personal project consists of an interactive map that meets all the requirements learned during my Full Stack bootcamp training. In the backend, I primarily use the combination of Node.js, Express, MongoDB, Express-Validator, and Firebase.
+### Eng: My most recent personal project consists of an interactive map that meets all the requirements learned during my Full Stack bootcamp training. In the backend, I primarily use the combination of Node.js, Express, MongoDB, Express-Validator, and Firebase.  I also use the NPM package manager.
 
-### Esp: Mi proyecto personal más reciente consiste en un mapa interactivo que cumple con todos los requisitos aprendidos durante mi formación en el bootcamp de Full Stack. En el backend, utilizo principalmente la combinación de Node.js, Express, MongoDB, Express-Validator y Firebase.
+### Esp: Mi proyecto personal más reciente consiste en un mapa interactivo que cumple con todos los requisitos aprendidos durante mi formación en el bootcamp de Full Stack. En el backend, utilizo principalmente la combinación de Node.js, Express, MongoDB, Express-Validator y Firebase. También uso el gestor de paquetes NPM.
 
 ## Base de datos de entradas:
 
