@@ -6,6 +6,9 @@
 
 ## Link al despliegue: https://backmapjorge.onrender.com
 
+### Postman Documentation
+###### https://documenter.getpostman.com/view/26092541/2s93eZxr1V
+
 - Obtener todas las entradas:
 ````
 - GET: https://backmapjorge.onrender.com/api/v1/entries
